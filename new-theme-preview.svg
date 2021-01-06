@@ -1,0 +1,333 @@
+<svg width="1088" height="1088" viewBox="0 0 1088 1088" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<g clip-path="url(#clip0)">
+<rect width="1088" height="1088" fill="url(#preview_linear)"/>
+<rect class="PreviewBack" width="1088" height="1088" fill="#ffd200"/>
+<g filter="url(#filter0_d)">
+<g clip-path="url(#clip1)">
+<rect class="windowBackgroundWhite" x="571" y="126" width="414" height="896" rx="50" fill="ffd200"/>
+<rect class="chats_secretName" x="709" y="647" width="70" height="13" rx="6.5" fill="#ffd200"/>
+<circle class="chats_secretIcon" cx="697.5" cy="653.5" r="6.5" fill="#ffd200"/>
+<rect class="chats_message" x="691" y="298" width="56" height="13" rx="6.5" fill="#ffd200"/>
+<rect class="chats_message" x="691" y="674" width="56" height="13" rx="6.5" fill="#ffd200"/>
+<rect class="chats_message" x="691" y="417" width="75" height="13" rx="6.5" fill="#ffd200"/>
+<rect class="chats_message" x="691" y="486" width="90" height="13" rx="6.5" fill="#ffd200"/>
+<rect class="chats_message" x="691" y="580" width="180" height="13" rx="6.5" fill="#ffd200"/>
+<rect class="chats_message" x="691" y="768" width="80" height="13" rx="6.5" fill="#ffd200"/>
+<rect class="chats_message" x="691" y="862" width="61" height="13" rx="6.5" fill="#ffd200"/>
+<rect class="chats_nameMessage" x="691" y="956" width="56" height="13" rx="6.5" fill="#ffd200"/>
+<rect class="chats_message" x="691" y="981" width="139" height="13" rx="6.5" fill="#ffd200"/>
+<rect class="chats_nameMessage" x="691" y="392" width="56" height="13" rx="6.5" fill="#ffd200"/>
+<rect class="chats_name" x="691" y="365" width="101" height="13" rx="6.5" fill="#ffd200"/>
+<rect class="chats_name" x="691" y="459" width="110" height="13" rx="6.5" fill="#ffd200"/>
+<rect class="chats_name" x="691" y="553" width="60" height="13" rx="6.5" fill="#ffd200"/>
+<rect class="chats_name" x="691" y="741" width="101" height="13" rx="6.5" fill="#ffd200"/>
+<rect class="chats_name" x="691" y="835" width="90" height="13" rx="6.5" fill="#ffd200"/>
+<rect class="chats_name" x="691" y="929" width="120" height="13" rx="6.5" fill="#ffd200"/>
+<rect class="chats_name" x="691" y="271" width="80" height="13" rx="6.5" fill="#ffd200"/>
+<circle cx="636" cy="400" r="35" fill="url(#paint0_linears)"/>
+<circle cx="636" cy="306" r="35" fill="url(#paint1_linears)"/>
+<circle cx="636" cy="682" r="35" fill="url(#paint2_linears)"/>
+<circle cx="636" cy="588" r="35" fill="url(#paint3_linears)"/>
+<circle cx="636" cy="494" r="35" fill="url(#paint4_linears)"/>
+<circle cx="636" cy="870" r="35" fill="url(#paint5_linears)"/>
+<circle cx="636" cy="776" r="35" fill="url(#paint6_linears)"/>
+<circle cx="636" cy="964" r="35" fill="url(#paint7_linears)"/>
+<rect class="chats_date" x="918" y="273" width="37" height="13" rx="6.5" fill="#ffd200"/>
+<rect class="chats_date" x="918" y="367" width="37" height="13" rx="6.5" fill="#ffd200"/>
+<rect class="chats_date" x="918" y="461" width="37" height="13" rx="6.5" fill="#ffd200"/>
+<rect class="chats_date" x="918" y="555" width="37" height="13" rx="6.5" fill="#ffd200"/>
+<rect class="chats_date" x="918" y="649" width="37" height="13" rx="6.5" fill="#ffd200"/>
+<rect class="chats_date" x="918" y="743" width="37" height="13" rx="6.5" fill="#ffd200"/>
+<rect class="chats_date" x="918" y="931" width="37" height="13" rx="6.5" fill="#ffd200"/>
+<rect class="chats_date" x="918" y="837" width="37" height="13" rx="6.5" fill="#ffd200"/>
+<circle class="chats_sentCheck" cx="904.5" cy="279.5" r="6.5" fill="#ffd200"/>
+<circle class="chats_sentCheck" cx="904.5" cy="655.5" r="6.5" fill="#ffd200"/>
+<circle class="chats_sentCheck" cx="904.5" cy="749.5" r="6.5" fill="#ffd200"/>
+<rect x="571" y="929" width="414" height="93" fill="url(#paint0_linear)"/>
+<g filter="url(#filter1_f)">
+<rect class="chats_actionBackground" x="895" y="932" width="60" height="60" fill="ffd200" fill-opacity="0.4"/>
+</g>
+<circle class="chats_actionBackground" cx="925" cy="962" r="30" fill="#ffd200"/>
+<circle class="chats_unreadCounterMuted" cx="942.5" cy="410.5" r="12.5" fill="#ffd200"/>
+<circle class="chats_unreadCounter" cx="942.5" cy="316.5" r="12.5" fill="#ffd200"/>
+<circle class="chats_muteIcon" cx="805.5" cy="371.5" r="6.5" fill="#ffd200"/>
+<circle class="windowBackgroundWhite" cx="660" cy="706" r="10" fill="ffd200"/>
+<circle class="chats_onlineCircle" cx="660" cy="706" r="7" fill="ffd200"/>
+<g filter="url(#filter2_d)">
+<path class="inappPlayerBackground" d="M571 202H985V221C985 232.201 985 237.802 982.82 242.08C980.903 245.843 977.843 248.903 974.08 250.82C969.802 253 964.201 253 953 253H603C591.799 253 586.198 253 581.92 250.82C578.157 248.903 575.097 245.843 573.18 242.08C571 237.802 571 232.201 571 221V202Z" fill="#ffd200"/>
+<rect class="inappPlayerTitle" x="662" y="220" width="88" height="15" rx="7.5" fill="ffd200"/>
+<circle class="inappPlayerPlayPause" cx="619.5" cy="227.5" r="12.5" fill="ffd200"/>
+<circle class="inappPlayerClose" cx="936.5" cy="227.5" r="12.5" fill="ffd200"/>
+<circle class="inappPlayerClose" cx="896.5" cy="227.5" r="12.5" fill="#ffd200"/>
+</g>
+<g filter="url(#filter3_d)">
+<rect class="actionBarDefault" x="571" y="126" width="414" height="76" fill="ffd200"/>
+</g>
+<circle class="actionBarDefaultIcon" cx="620" cy="164" r="15" fill="#ffd200"/>
+<circle class="actionBarDefaultIcon" cx="936" cy="164" r="15" fill="#ffd200"/>
+<circle class="actionBarDefaultIcon" cx="893" cy="164" r="15" fill="#ffd200"/>
+<rect class="actionBarDefaultTitle" x="681" y="154" width="110" height="20" rx="10" fill="#ffd200"/>
+</g>
+</g>
+<g filter="url(#filter4_f)">
+<path class="ChatShadow" d="M583 149C583 94.3238 538.676 50 484 50H33V1010H484C538.676 1010 583 965.676 583 911V149Z" fill="#ffd200" fill-opacity="0.2"/>
+</g>
+<g clip-path="url(#clip2)">
+<rect class="chat_wallpaper" x="101" y="82" width="414" height="896" rx="50" fill="ffd200"/>
+<rect x="101" y="82" width="414" height="896" fill="url(#pattern0)"/>
+<g filter="url(#filter5_d)">
+<rect class="chat_messagePanelBackground" x="101" y="902" width="414" height="77" fill="ffd200"/>
+</g>
+<circle class="chat_messagePanelIcons" cx="144" cy="940" r="15" fill="#ffd200"/>
+<circle class="chat_messagePanelIcons" cx="479" cy="940" r="15" fill="#ffd200"/>
+<circle class="chat_messagePanelIcons" cx="429" cy="940" r="15" fill="#ffd200"/>
+<rect class="chat_messagePanelHint" x="184" y="931" width="76" height="17" rx="8.5" fill="#ffd200"/>
+<g filter="url(#filter6_f)">
+<path class="chat_inBubbleShadow" d="M282.025 699H138.395C127.364 699 118.421 707.874 118.421 718.82V720.236V726.813C118.421 732.235 116.084 737.398 112 741L116.365 740.508C120.344 740.059 124.142 738.617 127.405 736.317C130.558 738.382 134.335 739.584 138.395 739.584H282.025C293.057 739.584 302 730.71 302 719.764V718.82C302 707.874 293.057 699 282.025 699Z" fill="#ffd200" fill-opacity="0.15"/>
+<path class="chat_inBubbleShadow" d="M318 669C318 657.954 309.046 649 298 649H129C123.477 649 119 653.477 119 659V681C119 686.523 123.477 691 129 691H298C309.046 691 318 682.046 318 671V669Z" fill="#ffd200" fill-opacity="0.15"/>
+<path class="chat_inBubbleShadow" d="M348 583C348 571.954 339.046 563 328 563H139C127.954 563 119 571.954 119 583V631C119 636.523 123.477 641 129 641H328C339.046 641 348 632.046 348 621V583Z" fill="#ffd200" fill-opacity="0.15"/>
+<path class="chat_inBubbleShadow" d="M282.025 322H138.395C127.364 322 118.421 330.874 118.421 341.82V343.236V349.813C118.421 355.235 116.084 360.398 112 364L116.365 363.508C120.344 363.059 124.142 361.617 127.405 359.317C130.558 361.382 134.335 362.584 138.395 362.584H282.025C293.057 362.584 302 353.71 302 342.764V341.82C302 330.874 293.057 322 282.025 322Z" fill="#ffd200" fill-opacity="0.15"/>
+<path class="chat_inBubbleShadow" d="M361 249.346C361 238.109 351.891 229 340.654 229H141.3C130.089 229 121 238.089 121 249.3V304.426C121 309.713 125.287 314 130.574 314H340.654C351.891 314 361 304.891 361 293.654V249.346Z" fill="#ffd200" fill-opacity="0.15"/>
+</g>
+<g>
+<path class="chat_inBubble" d="M282.025 696H138.395C127.364 696 118.421 704.874 118.421 715.82V717.236V723.813C118.421 729.235 116.084 734.398 112 738L116.365 737.508C120.344 737.059 124.142 735.617 127.405 733.317C130.558 735.382 134.335 736.584 138.395 736.584H282.025C293.057 736.584 302 727.71 302 716.764V715.82C302 704.874 293.057 696 282.025 696Z" fill="ffd200"/>
+<path class="chat_inBubble" d="M318 666C318 654.954 309.046 646 298 646H129C123.477 646 119 650.477 119 656V678C119 683.523 123.477 688 129 688H298C309.046 688 318 679.046 318 668V666Z" fill="ffd200"/>
+<path class="chat_inBubble" d="M348 580C348 568.954 339.046 560 328 560H139C127.954 560 119 568.954 119 580V628C119 633.523 123.477 638 129 638H328C339.046 638 348 629.046 348 618V580Z" fill="ffd200"/>
+<rect class="chat_inAudioTitleText" x="200" y="583" width="130" height="11" rx="5.5" fill="#ffd200"/>
+<rect class="chat_inAudioPerfomerText" x="200" y="605" width="90" height="11" rx="5.5" fill="ffd200"/>
+<path class="chat_inLoader" d="M138 600C138 613.807 149.193 625 163 625C163 625 165 625 168 624.5C171 624 171.5 623.5 171.5 623.5C171.5 623.5 169.5 622 168.5 619C167.5 616 167.822 612.178 171 609C174.461 605.539 177.873 605.606 181 606.5C184.5 607.5 186 610 186 610C186 610 187 607.5 187.5 605C188 602.5 188 600 188 600C188 586.193 176.807 575 163 575C149.193 575 138 586.193 138 600Z" fill="ffd200"/>
+<circle class="chat_inLoader" cx="178" cy="616" r="7" fill="ffd200"/>
+<path class="chat_inBubble" d="M282.025 319H138.395C127.364 319 118.421 327.874 118.421 338.82V340.236V346.813C118.421 352.235 116.084 357.398 112 361L116.365 360.508C120.344 360.059 124.142 358.617 127.405 356.317C130.558 358.382 134.335 359.584 138.395 359.584H282.025C293.057 359.584 302 350.71 302 339.764V338.82C302 327.874 293.057 319 282.025 319Z" fill="ffd200"/>
+<path class="chat_inBubble" d="M361 246.346C361 235.109 351.891 226 340.654 226H141.3C130.089 226 121 235.089 121 246.3V301.426C121 306.713 125.287 311 130.574 311H340.654C351.891 311 361 301.891 361 290.654V246.346Z" fill="ffd200"/>
+<rect class="chat_inReplyLine" x="131" y="240" width="6" height="35" rx="3" fill="ffd200"/>
+<rect class="chat_inReplyNameText" x="144" y="242" width="80" height="10" rx="5" fill="ffd200"/>
+<rect class="chat_inReplyMessageText" x="144" y="260" width="130" height="10" rx="5" fill="ffd200"/>
+</g>
+<g filter="url(#filter7_f)">
+<path class="chat_outBubbleShadow" d="M332.975 850H476.605C487.636 850 496.579 858.874 496.579 869.82V871.236V877.813C496.579 883.235 498.916 888.398 503 892L498.635 891.508C494.656 891.059 490.858 889.617 487.595 887.317C484.442 889.382 480.665 890.584 476.605 890.584H332.975C321.943 890.584 313 881.71 313 870.764V869.82C313 858.874 321.943 850 332.975 850Z" fill="#ffd200" fill-opacity="0.15"/>
+<path class="chat_outBubbleShadow" d="M284 820C284 808.954 292.954 800 304 800H486C491.523 800 496 804.477 496 810V832C496 837.523 491.523 842 486 842H304C292.954 842 284 833.046 284 822V820Z" fill="#ffd200" fill-opacity="0.15"/>
+<path class="chat_outBubbleShadow" d="M323 770C323 758.954 331.954 750 343 750H475C486.046 750 495 758.954 495 770V782C495 787.523 490.523 792 485 792H343C331.954 792 323 783.046 323 772V770Z" fill="#ffd200" fill-opacity="0.15"/>
+<path class="chat_outBubbleShadow" d="M332.975 512H476.605C487.636 512 496.579 520.874 496.579 531.82V533.236V539.813C496.579 545.235 498.916 550.398 503 554L498.635 553.508C494.656 553.059 490.858 551.617 487.595 549.317C484.442 551.382 480.665 552.584 476.605 552.584H332.975C321.943 552.584 313 543.71 313 532.764V531.82C313 520.874 321.943 512 332.975 512Z" fill="#ffd200" fill-opacity="0.15"/>
+<path class="chat_outBubbleShadow" d="M248 396C248 384.954 256.954 376 268 376H475C486.046 376 495 384.954 495 396V408C495 413.523 490.523 418 485 418H268C256.954 418 248 409.046 248 398V396Z" fill="#ffd200" fill-opacity="0.15"/>
+<path class="chat_outBubbleShadow" d="M248 446C248 434.954 256.954 426 268 426H484C489.523 426 494 430.477 494 436V494C494 499.523 489.523 504 484 504H268C256.954 504 248 495.046 248 484V446Z" fill="#ffd200" fill-opacity="0.15"/>
+<path class="chat_outBubbleShadow" d="M332.975 172H476.605C487.636 172 496.579 180.874 496.579 191.82V193.236V199.813C496.579 205.235 498.916 210.398 503 214L498.635 213.508C494.656 213.059 490.858 211.617 487.595 209.317C484.442 211.382 480.665 212.584 476.605 212.584H332.975C321.943 212.584 313 203.71 313 192.764V191.82C313 180.874 321.943 172 332.975 172Z" fill="#ffd200" fill-opacity="0.15"/>
+</g>
+<g>
+<path d="M333.975 847H477.605C488.636 847 497.579 855.874 497.579 866.82V868.236V874.813C497.579 880.235 499.916 885.398 504 889L499.635 888.508C495.656 888.059 491.858 886.617 488.595 884.317C485.442 886.382 481.665 887.584 477.605 887.584H333.975C322.943 887.584 314 878.71 314 867.764V866.82C314 855.874 322.943 847 333.975 847Z" fill="url(#paint1_linear)"/>
+<path d="M285 817C285 805.954 293.954 797 305 797H487C492.523 797 497 801.477 497 807V829C497 834.523 492.523 839 487 839H305C293.954 839 285 830.046 285 819V817Z" fill="url(#paint2_linear)"/>
+<path d="M324 767C324 755.954 332.954 747 344 747H476C487.046 747 496 755.954 496 767V779C496 784.523 491.523 789 486 789H344C332.954 789 324 780.046 324 769V767Z" fill="url(#paint3_linear)"/>
+<path d="M333.975 509H477.605C488.636 509 497.579 517.874 497.579 528.82V530.236V536.813C497.579 542.235 499.916 547.398 504 551L499.635 550.508C495.656 550.059 491.858 548.617 488.595 546.317C485.442 548.382 481.665 549.584 477.605 549.584H333.975C322.943 549.584 314 540.71 314 529.764V528.82C314 517.874 322.943 509 333.975 509Z" fill="url(#paint4_linear)"/>
+<path d="M249 393C249 381.954 257.954 373 269 373H476C487.046 373 496 381.954 496 393V405C496 410.523 491.523 415 486 415H269C257.954 415 249 406.046 249 395V393Z" fill="url(#paint5_linear)"/>
+<path d="M249 443C249 431.954 257.954 423 269 423H485C490.523 423 495 427.477 495 433V491C495 496.523 490.523 501 485 501H269C257.954 501 249 492.046 249 481V443Z" fill="url(#paint6_linear)"/>
+<circle class="chat_outLoader" cx="292" cy="462" r="25" fill="ffd200"/>
+<rect class="chat_outAudioDurationText" x="333.5" y="475" width="50" height="10" rx="5" fill="#ffd200"/>
+<rect class="chat_outVoiceSeekbarFill" x="333.5" y="462" width="4.76974" height="4.76974" rx="2.38487" fill="#ffd200"/>
+<rect class="chat_outVoiceSeekbarFill" x="339.678" y="457.171" width="4.76974" height="9.53947" rx="2.38487" fill="#ffd200"/>
+<rect class="chat_outVoiceSeekbarFill" x="346.355" y="440" width="4.76974" height="26.7105" rx="2.38487" fill="#ffd200"/>
+<rect class="chat_outVoiceSeekbarFill" x="353.033" y="445.724" width="4.76974" height="20.9868" rx="2.38487" fill="#ffd200"/>
+<rect class="chat_outVoiceSeekbarFill" x="359.711" y="448.586" width="4.76974" height="18.125" rx="2.38487" fill="#ffd200"/>
+<rect class="chat_outVoiceSeekbarFill" x="366.388" y="443.816" width="4.76974" height="22.8947" rx="2.38487" fill="#ffd200"/>
+<rect class="chat_outVoiceSeekbarFill" x="373.066" y="454.309" width="4.76974" height="12.4013" rx="2.38487" fill="#ffd200"/>
+<rect class="chat_outVoiceSeekbarFill" x="379.744" y="448.586" width="4.76974" height="18.125" rx="2.38487" fill="#ffd200"/>
+<rect class="chat_outVoiceSeekbar" x="386.421" y="454.309" width="4.76974" height="12.4013" rx="2.38487" fill="ffd200"/>
+<rect class="chat_outVoiceSeekbar" x="393.099" y="441.908" width="4.76974" height="24.8026" rx="2.38487" fill="ffd200"/>
+<rect class="chat_outVoiceSeekbar" x="400" y="462" width="4.76974" height="4.76974" rx="2.38487" fill="ffd200"/>
+<rect class="chat_outVoiceSeekbar" x="406.454" y="448.586" width="4.76974" height="18.125" rx="2.38487" fill="ffd200"/>
+<rect class="chat_outVoiceSeekbar" x="413.132" y="451.447" width="4.76974" height="15.2632" rx="2.38487" fill="ffd200"/>
+<rect class="chat_outVoiceSeekbar" x="419.809" y="443.816" width="4.76974" height="22.8947" rx="2.38487" fill="ffd200"/>
+<rect class="chat_outVoiceSeekbar" x="426.487" y="448.586" width="4.76974" height="18.125" rx="2.38487" fill="ffd200"/>
+<rect class="chat_outVoiceSeekbar" x="433.165" y="454.309" width="4.76974" height="12.4013" rx="2.38487" fill="ffd200"/>
+<rect class="chat_outVoiceSeekbar" x="439.842" y="440" width="4.76974" height="26.7105" rx="2.38487" fill="ffd200"/>
+<rect class="chat_outVoiceSeekbar" x="446.52" y="445.724" width="4.76974" height="20.9868" rx="2.38487" fill="ffd200"/>
+<rect class="chat_outVoiceSeekbar" x="453.197" y="443.816" width="4.76974" height="22.8947" rx="2.38487" fill="ffd200"/>
+<rect class="chat_outVoiceSeekbar" x="459.875" y="451.447" width="4.76974" height="15.2632" rx="2.38487" fill="ffd200"/>
+<rect class="chat_outVoiceSeekbar" x="466.553" y="454.309" width="4.76974" height="12.4013" rx="2.38487" fill="ffd200"/>
+<rect class="chat_outVoiceSeekbar" x="472.75" y="462" width="4.76974" height="4.76974" rx="2.38487" fill="ffd200"/>
+<path d="M333.975 169H477.605C488.636 169 497.579 177.874 497.579 188.82V190.236V196.813C497.579 202.235 499.916 207.398 504 211L499.635 210.508C495.656 210.059 491.858 208.617 488.595 206.317C485.442 208.382 481.665 209.584 477.605 209.584H333.975C322.943 209.584 314 200.71 314 189.764V188.82C314 177.874 322.943 169 333.975 169Z" fill="url(#paint7_linear)"/>
+</g>
+<g filter="url(#filter8_d)">
+<rect class="actionBarDefault" x="101" y="82" width="414" height="76" fill="ffd200"/>
+<circle class="actionBarDefaultIcon" cx="466" cy="120" r="15" fill="#ffd200"/>
+<circle class="actionBarDefaultIcon" cx="150" cy="120" r="15" fill="#ffd200"/>
+<rect class="actionBarDefaultSubtitle" x="191" y="128" width="61" height="15" rx="7.5" fill="#ffd200"/>
+<rect class="actionBarDefaultTitle" x="191" y="98" width="110" height="15" rx="7.5" fill="#ffd200"/>
+</g>
+</g>
+<g clip-path="url(#clip3)">
+</g>
+</g>
+<defs>
+<filter id="filter0_d" x="546" y="101" width="464" height="946" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"/>
+<feMorphology radius="5" operator="dilate" in="SourceAlpha" result="effect1_dropShadow"/>
+<feOffset/>
+<feGaussianBlur stdDeviation="10"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.1 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow" result="shape"/>
+</filter>
+<filter id="filter2_d" x="546" y="178" width="464" height="101" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"/>
+<feMorphology radius="5" operator="dilate" in="SourceAlpha" result="effect1_dropShadow"/>
+<feOffset dy="1"/>
+<feGaussianBlur stdDeviation="10"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.1 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow" result="shape"/>
+</filter>
+<filter id="filter3_d" x="546" y="102" width="464" height="126" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"/>
+<feMorphology radius="5" operator="dilate" in="SourceAlpha" result="effect1_dropShadow"/>
+<feOffset dy="1"/>
+<feGaussianBlur stdDeviation="10"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.1 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow" result="shape"/>
+</filter>
+<filter id="filter1_f" x="870" y="907" width="110" height="110" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+<feGaussianBlur stdDeviation="12.5" result="effect1_foregroundBlur"/>
+</filter>
+<filter id="filter4_f" x="-107" y="-90" width="830" height="1240" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+<feGaussianBlur stdDeviation="70" result="effect1_foregroundBlur"/>
+</filter>
+<filter id="filter6_f" x="106" y="223" width="261" height="524" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+<feGaussianBlur stdDeviation="3" result="effect1_foregroundBlur"/>
+</filter>
+<filter id="filter7_f" x="242" y="166" width="267" height="732" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+<feGaussianBlur stdDeviation="3" result="effect1_foregroundBlur"/>
+</filter>
+<pattern id="pattern0" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image0" transform="translate(-0.108696) scale(0.00112721 0.000520833)"/>
+</pattern>
+<filter id="filter5_d" x="76" y="875" width="464" height="127" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"/>
+<feMorphology radius="5" operator="dilate" in="SourceAlpha" result="effect1_dropShadow"/>
+<feOffset dy="-1"/>
+<feGaussianBlur stdDeviation="10"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.1 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow" result="shape"/>
+</filter>
+<filter id="filter6_d" x="106" y="223" width="261" height="524" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"/>
+<feOffset dy="3"/>
+<feGaussianBlur stdDeviation="3"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0.224806 0 0 0 0 1 0 0 0 0.15 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow" result="shape"/>
+</filter>
+<filter id="filter7_d" x="243" y="166" width="267" height="732" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"/>
+<feOffset dy="3"/>
+<feGaussianBlur stdDeviation="3"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0.0799999 0 0 0 0 0 0 0 0 0 1 0 0 0 0.15 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow" result="shape"/>
+</filter>
+<filter id="filter8_d" x="76" y="58" width="464" height="126" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"/>
+<feMorphology radius="5" operator="dilate" in="SourceAlpha" result="effect1_dropShadow"/>
+<feOffset dy="1"/>
+<feGaussianBlur stdDeviation="10"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.1 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow" result="shape"/>
+</filter>
+<linearGradient id="preview_linear" x1="751" y1="8.8434e-06" x2="302" y2="1088" gradientUnits="userSpaceOnUse">
+<stop class="PreviewBackLinear" stop-color="#ffd200"/>
+<stop class="PreviewBackLinearShadow" offset="1" stop-color="#ffd200"/>
+</linearGradient>
+<linearGradient id="paint0_linear" x1="778" y1="929" x2="778" y2="1022" gradientUnits="userSpaceOnUse">
+<stop class="windowBackgroundWhite" stop-color="#ffd200" stop-opacity="0"/>
+<stop class="windowBackgroundWhite" offset="0.708333" stop-color="#ffd200"/>
+</linearGradient>
+<linearGradient id="paint1_linear" x1="409" y1="163.5" x2="409" y2="889" gradientUnits="userSpaceOnUse">
+<stop class="chat_outBubbleGradient" stop-color="#ffd200"/>
+<stop class="chat_outBubble" offset="1" stop-color="#ffd200"/>
+</linearGradient>
+<linearGradient id="paint2_linear" x1="391" y1="174.5" x2="391" y2="901" gradientUnits="userSpaceOnUse">
+<stop class="chat_outBubbleGradient" stop-color="#ffd200"/>
+<stop class="chat_outBubble" offset="1" stop-color="#ffd200"/>
+</linearGradient>
+<linearGradient id="paint3_linear" x1="410" y1="155" x2="410" y2="900.5" gradientUnits="userSpaceOnUse">
+<stop class="chat_outBubbleGradient" stop-color="#ffd200"/>
+<stop class="chat_outBubble" offset="1" stop-color="#ffd200"/>
+</linearGradient>
+<linearGradient id="paint4_linear" x1="409" y1="158.5" x2="409" y2="911" gradientUnits="userSpaceOnUse">
+<stop class="chat_outBubbleGradient" stop-color="#ffd200"/>
+<stop class="chat_outBubble" offset="1" stop-color="#ffd200"/>
+</linearGradient>
+<linearGradient id="paint5_linear" x1="384.5" y1="162.5" x2="373" y2="903" gradientUnits="userSpaceOnUse">
+<stop class="chat_outBubbleGradient" stop-color="#ffd200"/>
+<stop class="chat_outBubble" offset="1" stop-color="#ffd200"/>
+</linearGradient>
+<linearGradient id="paint6_linear" x1="372" y1="155.5" x2="372" y2="902.5" gradientUnits="userSpaceOnUse">
+<stop class="chat_outBubbleGradient" stop-color="#ffd200"/>
+<stop class="chat_outBubble" offset="1" stop-color="#ffd200"/>
+</linearGradient>
+<linearGradient id="paint7_linear" x1="409" y1="169" x2="409" y2="897.5" gradientUnits="userSpaceOnUse">
+<stop class="chat_outBubbleGradient" stop-color="#ffd200"/>
+<stop class="chat_outBubble" offset="1" stop-color="#ffd200"/>
+</linearGradient>
+<linearGradient id="paint0_linears" x1="636" y1="365" x2="636" y2="435" gradientUnits="userSpaceOnUse">
+<stop class="avatar_backgroundRed" stop-color="#ffd200"/>
+<stop class="avatar_backgroundRedShadow" offset="1" stop-color="#ffd200"/>
+</linearGradient>
+<linearGradient id="paint1_linears" x1="636" y1="271" x2="636" y2="341" gradientUnits="userSpaceOnUse">
+<stop class="avatar_backgroundOrange" stop-color="#ffd200"/>
+<stop class="avatar_backgroundOrangeShadow" offset="1" stop-color="#ffd200"/>
+</linearGradient>
+<linearGradient id="paint2_linears" x1="636" y1="647" x2="636" y2="717" gradientUnits="userSpaceOnUse">
+<stop class="avatar_backgroundViolet" stop-color="#ffd200"/>
+<stop class="avatar_backgroundVioletShadow" offset="1" stop-color="#ffd200"/>
+</linearGradient>
+<linearGradient id="paint3_linears" x1="636" y1="553" x2="636" y2="623" gradientUnits="userSpaceOnUse">
+<stop class="avatar_backgroundGreen" stop-color="#ffd200"/>
+<stop class="avatar_backgroundGreenShadow" offset="1" stop-color="#ffd200"/>
+</linearGradient>
+<linearGradient id="paint4_linears" x1="636" y1="459" x2="636" y2="529" gradientUnits="userSpaceOnUse">
+<stop class="avatar_backgroundCyan" stop-color="#ffd200"/>
+<stop class="avatar_backgroundCyanShadow" offset="1" stop-color="#ffd200"/>
+</linearGradient>
+<linearGradient id="paint5_linears" x1="636" y1="835" x2="636" y2="905" gradientUnits="userSpaceOnUse">
+<stop class="avatar_backgroundBlue" stop-color="#ffd200"/>
+<stop class="avatar_backgroundBlueShadow" offset="1" stop-color="#ffd200"/>
+</linearGradient>
+<linearGradient id="paint6_linears" x1="636" y1="741" x2="636" y2="811" gradientUnits="userSpaceOnUse">
+<stop class="avatar_backgroundRed" stop-color="#ffd200"/>
+<stop class="avatar_backgroundRedShadow" offset="1" stop-color="#ffd200"/>
+</linearGradient>
+<linearGradient id="paint7_linears" x1="636" y1="929" x2="636" y2="999" gradientUnits="userSpaceOnUse">
+<stop class="avatar_backgroundOrange" stop-color="#ffd200"/>
+<stop class="avatar_backgroundOrangeShadow" offset="1" stop-color="#ffd200"/>
+</linearGradient>
+<clipPath id="clip0">
+<rect width="1088" height="1088" fill="ffd200"/>
+</clipPath>
+<clipPath id="clip1">
+<rect x="571" y="126" width="414" height="896" rx="50" fill="ffd200"/>
+</clipPath>
+<clipPath id="clip2">
+<rect x="101" y="82" width="414" height="896" rx="50" fill="ffd200"/>
+</clipPath>
+<clipPath id="clip3">
+<rect width="13" height="13" fill="ffd200" transform="translate(121 1033)"/>
+</clipPath>
+<image class="IMG" id="image0" width="1080" height="1920"/>
+</defs>
+</svg>

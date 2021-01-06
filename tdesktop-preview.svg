@@ -1,0 +1,268 @@
+<svg width="1088" height="1088" viewBox="0 0 1088 1088" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <g clip-path="url(#clip0)">
+        <rect class="PreviewBack" width="1088" height="1088" fill="#ffd200"/>
+        <g filter="url(#filter0_f)">
+            <rect class="PreviewShadow" y="143" width="1088" height="801" fill="#ffd200" fill-opacity="0.2"/>
+        </g>
+        <g clip-path="url(#clip1)">
+            <rect x="40" y="173" width="1008" height="741" rx="30" fill="#ffd200"/>
+            <rect class="titleBg" width="1008" height="72" transform="translate(40 173)" fill="#ffd200"/>
+            <circle class="titleButtonCloseBg" cx="1018" cy="190" r="9" fill="#ffd200"/>
+            <circle class="titleButtonBg" cx="988" cy="190" r="9" fill="#ffd200"/>
+            <circle class="titleButtonBg" cx="958" cy="190" r="9" fill="#ffd200"/>
+            <path class="sideBarBg" d="M40 238C40 221.431 53.4315 208 70 208H161V914H40V238Z" fill="#ffd200"/>
+            <circle class="sideBarIconFg" cx="75" cy="415" r="20" fill="#ffd200"/>
+            <rect class="sideBarTextFg" x="55" y="445" width="40" height="8" rx="4" fill="#ffd200"/>
+            <circle class="sideBarIconFg" cx="75" cy="508" r="20" fill="#ffd200"/>
+            <rect class="sideBarTextFg" x="55" y="538" width="40" height="8" rx="4" fill="#ffd200"/>
+            <path class="sideBarBgActive" d="M40 301C40 295.477 44.4772 291 50 291H110V372H50C44.4772 372 40 367.523 40 362V301Z" fill="#ffd200"/>
+            <path class="sideBarBgActive" d="M106 291C107.889 290.37 109.37 288.889 110 287V291H106Z" fill="#ffd200"/>
+            <path class="sideBarBgActive" d="M106 372C107.889 372.63 109.37 374.111 110 376V372H106Z" fill="#ffd200"/>
+            <circle class="sideBarIconFgActive" cx="75" cy="322" r="20" fill="#ffd200"/>
+            <rect class="sideBarTextFgActive" x="55" y="352" width="40" height="8" rx="4" fill="#ffd200"/>
+            <circle class="sideBarIconFg" cx="75" cy="247" r="20" fill="#ffd200"/>
+            <g clip-path="url(#clip2)">
+                <rect x="409" y="255" width="939" height="666" fill="url(#pattern0)"/>
+                <g filter="url(#filter1_f)">
+                    <path class="msgInShadow" d="M655.282 694.082H542.691C534.044 694.082 527.033 701.061 527.033 709.671V710.784V715.957C527.033 720.222 525.201 724.282 522 727.115L525.422 726.728C528.541 726.375 531.518 725.241 534.076 723.432C536.548 725.056 539.509 726.002 542.691 726.002H655.282C663.93 726.002 670.941 719.023 670.941 710.413V709.671C670.941 701.061 663.93 694.082 655.282 694.082Z" fill="#ffd200"/>
+                    <path class="msgInShadow" d="M683.483 670.505C683.483 661.807 676.432 654.756 667.734 654.756H535.362C531.013 654.756 527.487 658.281 527.487 662.63V679.915C527.487 684.264 531.013 687.79 535.362 687.79H667.734C676.432 687.79 683.483 680.739 683.483 672.041V670.505Z" fill="#ffd200"/>
+                    <path class="msgInShadow" d="M707 602.864C707 594.166 699.949 587.115 691.251 587.115H543.236C534.538 587.115 527.487 594.166 527.487 602.864V640.589C527.487 644.938 531.013 648.464 535.362 648.464H691.251C699.949 648.464 707 641.413 707 632.715V602.864Z" fill="#ffd200"/>
+                    <path class="msgInShadow" d="M655.886 398.233H542.785C534.098 398.233 527.056 405.22 527.056 413.84V414.955V420.134C527.056 424.404 525.216 428.469 522 431.306L525.438 430.918C528.57 430.565 531.561 429.429 534.131 427.618C536.613 429.244 539.588 430.191 542.785 430.191H655.886C664.573 430.191 671.615 423.203 671.615 414.583V413.84C671.615 405.22 664.573 398.233 655.886 398.233Z" fill="#ffd200"/>
+                    <path class="msgInShadow" d="M718.075 341.021C718.075 332.173 710.902 325 702.054 325H545.072C536.244 325 529.087 332.157 529.087 340.985V384.394C529.087 388.558 532.463 391.933 536.626 391.933H702.054C710.902 391.933 718.075 384.76 718.075 375.912V341.021Z" fill="#ffd200"/>
+                </g>
+                <g>
+                    <path class="msgInBg" d="M655.282 691.966H542.691C534.044 691.966 527.033 698.946 527.033 707.555V708.669V713.842C527.033 718.106 525.201 722.167 522 725L525.422 724.613C528.541 724.26 531.518 723.126 534.076 721.317C536.548 722.941 539.509 723.887 542.691 723.887H655.282C663.93 723.887 670.941 716.907 670.941 708.298V707.555C670.941 698.946 663.93 691.966 655.282 691.966Z" fill="#ffd200"/>
+                    <path class="msgInBg" d="M683.483 668.389C683.483 659.692 676.432 652.64 667.734 652.64H535.362C531.013 652.64 527.487 656.166 527.487 660.515V677.8C527.487 682.149 531.013 685.674 535.362 685.674H667.734C676.432 685.674 683.483 678.623 683.483 669.925V668.389Z" fill="#ffd200"/>
+                    <path class="msgInBg" d="M707 600.749C707 592.051 699.949 585 691.251 585H543.236C534.538 585 527.487 592.051 527.487 600.749V638.474C527.487 642.823 531.013 646.348 535.362 646.348H691.251C699.949 646.348 707 639.297 707 630.599V600.749Z" fill="#ffd200"/>
+                    <rect class="historyFileNameInFg" x="590.983" y="603.09" width="101.907" height="8.65169" rx="4.32584" fill="#ffd200"/>
+                    <rect class="mediaInFg" x="590.983" y="620.393" width="70.5508" height="8.65169" rx="4.32584" fill="#ffd200"/>
+                    <path class="msgFileInBg" d="M561.195 635.337C550.371 635.337 541.597 626.534 541.597 615.674C541.597 604.815 550.371 596.011 561.195 596.011C572.018 596.011 580.792 604.815 580.792 615.674C580.792 618.432 580.226 621.057 579.205 623.439C577.786 622.016 575.826 621.135 573.661 621.135C569.332 621.135 565.822 624.656 565.822 629C565.822 630.993 566.561 632.814 567.779 634.2C565.721 634.936 563.505 635.337 561.195 635.337Z" fill="#ffd200"/>
+                    <ellipse class="msgFileInBg" cx="573.737" cy="629.045" rx="5.48729" ry="5.50562" fill="#ffd200"/>
+                    <path class="msgInBg" d="M655.886 396.117H542.785C534.098 396.117 527.056 403.105 527.056 411.725V412.84V418.019C527.056 422.288 525.216 426.354 522 429.19L525.438 428.803C528.57 428.449 531.561 427.314 534.131 425.503C536.613 427.129 539.588 428.075 542.785 428.075H655.886C664.573 428.075 671.615 421.088 671.615 412.468V411.725C671.615 403.105 664.573 396.117 655.886 396.117Z" fill="#ffd200"/>
+                    <path class="msgInBg" d="M718.075 338.906C718.075 330.058 710.902 322.885 702.054 322.885H545.072C536.244 322.885 529.087 330.041 529.087 338.87V382.278C529.087 386.442 532.463 389.818 536.626 389.818H702.054C710.902 389.818 718.075 382.645 718.075 373.797V338.906Z" fill="#ffd200"/>
+                    <rect class="msgInReplyBarColor" x="536.961" y="333.909" width="4.7247" height="27.5607" rx="2.36235" fill="#ffd200"/>
+                    <rect class="msgInServiceFg" x="547.198" y="335.484" width="62.996" height="7.87449" rx="3.93725" fill="ffd200"/>
+                    <rect class="historyTextInFg" x="547.198" y="349.658" width="102.368" height="7.87449" rx="3.93725" fill="#ffd200"/>
+                </g>
+                <g filter="url(#filter2_f)">
+                    <path class="msgOutShadow" d="M903.647 814.285H1016.3C1024.95 814.285 1031.96 821.273 1031.96 829.893V831.008V836.188C1031.96 840.458 1033.8 844.523 1037 847.36L1033.58 846.972C1030.46 846.619 1027.48 845.484 1024.92 843.672C1022.44 845.298 1019.48 846.245 1016.3 846.245H903.647C894.995 846.245 887.98 839.257 887.98 830.637V829.893C887.98 821.273 894.995 814.285 903.647 814.285Z" fill="#ffd200"/>
+                    <path class="msgOutShadow" d="M865.235 790.659C865.235 781.961 872.286 774.91 880.984 774.91H1023.64C1027.98 774.91 1031.51 778.436 1031.51 782.784V800.11C1031.51 804.459 1027.98 807.985 1023.64 807.985H880.984C872.286 807.985 865.235 800.934 865.235 792.236V790.659Z" fill="#ffd200"/>
+                    <path class="msgOutShadow" d="M895.824 751.284C895.824 742.586 902.875 735.535 911.573 735.535H1014.98C1023.67 735.535 1030.73 742.586 1030.73 751.284V760.736C1030.73 765.084 1027.2 768.61 1022.85 768.61H911.573C902.875 768.61 895.824 761.559 895.824 752.861V751.284Z" fill="#ffd200"/>
+                    <path class="msgOutShadow" d="M903.647 548.11H1016.3C1024.95 548.11 1031.96 555.098 1031.96 563.718V564.833V570.013C1031.96 574.283 1033.8 578.348 1037 581.185L1033.58 580.797C1030.46 580.444 1027.48 579.309 1024.92 577.497C1022.44 579.124 1019.48 580.07 1016.3 580.07H903.647C894.995 580.07 887.98 573.082 887.98 564.462V563.718C887.98 555.098 894.995 548.11 903.647 548.11Z" fill="#ffd200"/>
+                    <path class="msgOutShadow" d="M837 456.759C837 448.061 844.051 441.01 852.749 441.01H1014.98C1023.67 441.01 1030.73 448.061 1030.73 456.759V466.211C1030.73 470.559 1027.2 474.085 1022.85 474.085H852.749C844.051 474.085 837 467.034 837 458.336V456.759Z" fill="#ffd200"/>
+                    <path class="msgOutShadow" d="M837 496.134C837 487.436 844.051 480.385 852.749 480.385H1022.07C1026.42 480.385 1029.94 483.911 1029.94 488.259V533.936C1029.94 538.284 1026.42 541.81 1022.07 541.81H852.749C844.051 541.81 837 534.759 837 526.061V496.134Z" fill="#ffd200"/>
+                    <path class="msgOutShadow" d="M903.647 280.36H1016.3C1024.95 280.36 1031.96 287.348 1031.96 295.968V297.083V302.263C1031.96 306.533 1033.8 310.598 1037 313.435L1033.58 313.047C1030.46 312.694 1027.48 311.559 1024.92 309.747C1022.44 311.374 1019.48 312.32 1016.3 312.32H903.647C894.995 312.32 887.98 305.332 887.98 296.712V295.968C887.98 287.348 894.995 280.36 903.647 280.36Z" fill="#ffd200"/>
+                </g>
+                <g>
+                    <path class="msgOutBg" d="M903.647 811.925H1016.3C1024.95 811.925 1031.96 818.913 1031.96 827.533V828.648V833.828C1031.96 838.098 1033.8 842.163 1037 845L1033.58 844.612C1030.46 844.259 1027.48 843.124 1024.92 841.312C1022.44 842.939 1019.48 843.885 1016.3 843.885H903.647C894.995 843.885 887.98 836.897 887.98 828.277V827.533C887.98 818.913 894.995 811.925 903.647 811.925Z" fill="#ffd200"/>
+                    <path class="msgOutBg" d="M865.235 788.299C865.235 779.601 872.286 772.55 880.984 772.55H1023.64C1027.98 772.55 1031.51 776.076 1031.51 780.424V797.751C1031.51 802.099 1027.98 805.625 1023.64 805.625H880.984C872.286 805.625 865.235 798.574 865.235 789.876V788.299Z" fill="#ffd200"/>
+                    <path class="msgOutBg" d="M895.824 748.924C895.824 740.226 902.875 733.175 911.573 733.175H1014.98C1023.67 733.175 1030.73 740.226 1030.73 748.924V758.376C1030.73 762.724 1027.2 766.25 1022.85 766.25H911.573C902.875 766.25 895.824 759.199 895.824 750.501V748.924Z" fill="#ffd200"/>
+                    <path class="msgOutBg" d="M903.647 545.75H1016.3C1024.95 545.75 1031.96 552.738 1031.96 561.358V562.473V567.653C1031.96 571.923 1033.8 575.988 1037 578.825L1033.58 578.437C1030.46 578.084 1027.48 576.949 1024.92 575.137C1022.44 576.764 1019.48 577.71 1016.3 577.71H903.647C894.995 577.71 887.98 570.722 887.98 562.102V561.358C887.98 552.738 894.995 545.75 903.647 545.75Z" fill="#ffd200"/>
+                    <path class="msgOutBg" d="M837 454.399C837 445.701 844.051 438.65 852.749 438.65H1014.98C1023.67 438.65 1030.73 445.701 1030.73 454.399V463.851C1030.73 468.199 1027.2 471.725 1022.85 471.725H852.749C844.051 471.725 837 464.674 837 455.976V454.399Z" fill="#ffd200"/>
+                    <path class="msgOutBg" d="M837 493.774C837 485.076 844.051 478.025 852.749 478.025H1022.07C1026.42 478.025 1029.94 481.551 1029.94 485.899V531.576C1029.94 535.924 1026.42 539.45 1022.07 539.45H852.749C844.051 539.45 837 532.399 837 523.701V493.774Z" fill="#ffd200"/>
+                    <ellipse class="msgFileOutBg" cx="870.725" cy="508.737" rx="19.6078" ry="19.6875" fill="#ffd200"/>
+                    <rect class="msgWaveformOutActive" width="3.74097" height="3.75593" rx="1.87049" transform="matrix(1 0 0 -1 900 513)" fill="#ffd200"/>
+                    <rect class="msgWaveformOutActive" x="905.12" y="505.935" width="3.74097" height="7.51185" rx="1.87049" fill="#ffd200"/>
+                    <rect class="msgWaveformOutActive" x="910.357" y="492.412" width="3.74097" height="21.0345" rx="1.87049" fill="#ffd200"/>
+                    <rect class="msgWaveformOutActive" x="915.594" y="496.92" width="3.74097" height="16.5271" rx="1.87049" fill="#ffd200"/>
+                    <rect class="msgWaveformOutActive" x="920.832" y="499.174" width="3.74097" height="14.2725" rx="1.87049" fill="#ffd200"/>
+                    <rect class="msgWaveformOutActive" x="926.069" y="495.417" width="3.74097" height="18.0296" rx="1.87049" fill="#ffd200"/>
+                    <rect class="msgWaveformOutActive" x="931.306" y="503.681" width="3.74097" height="9.76541" rx="1.87049" fill="#ffd200"/>
+                    <rect class="msgWaveformOutActive" x="936.544" y="499.174" width="3.74097" height="14.2725" rx="1.87049" fill="#ffd200"/>
+                    <rect class="msgWaveformOutInactive" x="941.781" y="503.681" width="3.74097" height="9.76541" rx="1.87049" fill="#ffd200"/>
+                    <rect class="msgWaveformOutInactive" x="947.019" y="493.914" width="3.74097" height="19.5321" rx="1.87049" fill="#ffd200"/>
+                    <rect class="msgWaveformOutInactive" x="952.431" y="509.5" width="3.74097" height="3.75593" rx="1.87049" fill="#ffd200"/>
+                    <rect class="msgWaveformOutInactive" x="957.493" y="499.174" width="3.74097" height="14.2725" rx="1.87049" fill="#ffd200"/>
+                    <rect class="msgWaveformOutInactive" x="962.731" y="501.427" width="3.74097" height="12.019" rx="1.87049" fill="#ffd200"/>
+                    <rect class="msgWaveformOutInactive" x="967.968" y="495.417" width="3.74097" height="18.0296" rx="1.87049" fill="#ffd200"/>
+                    <rect class="msgWaveformOutInactive" x="973.205" y="499.174" width="3.74097" height="14.2725" rx="1.87049" fill="#ffd200"/>
+                    <rect class="msgWaveformOutInactive" x="978.443" y="503.681" width="3.74097" height="9.76541" rx="1.87049" fill="#ffd200"/>
+                    <rect class="msgWaveformOutInactive" x="983.68" y="492.412" width="3.74097" height="21.0345" rx="1.87049" fill="#ffd200"/>
+                    <rect class="msgWaveformOutInactive" x="988.917" y="496.92" width="3.74097" height="16.5271" rx="1.87049" fill="#ffd200"/>
+                    <rect class="msgWaveformOutInactive" x="994.155" y="495.417" width="3.74097" height="18.0296" rx="1.87049" fill="#ffd200"/>
+                    <rect class="msgWaveformOutInactive" x="999.392" y="501.427" width="3.74097" height="12.019" rx="1.87049" fill="#ffd200"/>
+                    <rect class="msgWaveformOutInactive" x="1004.63" y="503.681" width="3.74097" height="9.76541" rx="1.87049" fill="#ffd200"/>
+                    <rect class="msgWaveformOutInactive" width="3.74097" height="3.75593" rx="1.87049" transform="matrix(1 0 0 -1 1009.8 513)" fill="#ffd200"/>
+                    <rect class="mediaOutFg" x="899" y="519" width="56" height="7" rx="3.5" fill="#ffd200"/>
+                    <path class="msgOutBg" d="M903.647 278H1016.3C1024.95 278 1031.96 284.988 1031.96 293.608V294.723V299.903C1031.96 304.173 1033.8 308.238 1037 311.075L1033.58 310.687C1030.46 310.334 1027.48 309.199 1024.92 307.387C1022.44 309.014 1019.48 309.96 1016.3 309.96H903.647C894.995 309.96 887.98 302.972 887.98 294.352V293.608C887.98 284.988 894.995 278 903.647 278Z" fill="#ffd200"/>
+                </g>
+                <g filter="url(#filter3_d)">
+                    <rect class="historyComposeAreaBg" width="537" height="57" transform="translate(511 857)" fill="#ffd200"/>
+                    <circle class="menuIconFg" cx="544" cy="886" r="10" fill="#ffd200"/>
+                    <circle class="menuIconFg" cx="1014" cy="886" r="10" fill="#ffd200"/>
+                    <circle class="menuIconFg" cx="977" cy="886" r="10" fill="#ffd200"/>
+                    <rect class="historyComposeAreaFg" x="571" y="881" width="69" height="10" rx="6" fill="#ffd200"/>
+                </g>
+                <g filter="url(#filter4_d)">
+                    <rect class="windowBg" x="511" y="248" width="537" height="58" fill="#ffd200"/>
+                </g>
+                <circle class="menuIconFg" cx="1013" cy="277" r="10" fill="#ffd200"/>
+                <circle class="menuIconFg" cx="978" cy="277" r="10" fill="#ffd200"/>
+                <circle class="menuIconFg" cx="943" cy="277" r="10" fill="#ffd200"/>
+                <circle class="menuIconFg" cx="908" cy="277" r="10" fill="#ffd200"/>
+                <rect class="windowActiveTextFg" x="532" y="283" width="61" height="10" rx="6" fill="#ffd200"/>
+                <rect class="windowBoldFg" x="532" y="262" width="110" height="10" rx="6" fill="#ffd200"/>
+                <g filter="url(#filter5_d)">
+                    <path class="mediaPlayerBg" d="M511 208H1018C1034.57 208 1048 221.431 1048 238V248H511V208Z" fill="#ffd200"/>
+                    <circle class="mediaPlayerActiveFg" cx="545" cy="228" r="10" fill="#ffd200"/>
+                    <circle class="mediaPlayerActiveFg" cx="1015" cy="228" r="10" fill="#ffd200"/>
+                    <circle class="mediaPlayerActiveFg" cx="978" cy="228" r="10" fill="#ffd200"/>
+                    <rect class="windowFg" x="572" y="222" width="69" height="12" rx="6" fill="#ffd200"/>
+                </g>
+            </g>
+            <g clip-path="url(#clip3)">
+                <rect class="dialogsBg" x="110" y="208" width="402" height="707" fill="#ffd200"/>
+                <rect class="dialogsBgActive" x="110" y="569" width="400" height="75" rx="15" fill="#ffd200"/>
+                <rect class="dialogsTextFg" x="200.265" y="362.65" width="47.7765" height="11.091" rx="5.54549" fill="#ffd200"/>
+                <rect class="dialogsTextFg" x="200.265" y="683.435" width="47.7765" height="11.091" rx="5.54549" fill="#ffd200"/>
+                <rect class="dialogsTextFg" x="200.265" y="464.175" width="63.9864" height="11.091" rx="5.54549" fill="#ffd200"/>
+                <rect class="dialogsTextFg" x="200.265" y="523.043" width="76.7837" height="11.091" rx="5.54549" fill="#ffd200"/>
+                <rect class="dialogsTextFgActive" x="200.265" y="603.239" width="153.567" height="11.091" rx="5.54549" fill="#ffd200"/>
+                <rect class="dialogsTextFg" x="200.265" y="763.631" width="68.2522" height="11.091" rx="5.54549" fill="#ffd200"/>
+                <rect class="dialogsTextFg" x="200.265" y="843.828" width="52.0423" height="11.091" rx="5.54549" fill="#ffd200"/>
+                <rect class="dialogsTextFgService" x="200.265" y="442.846" width="47.7765" height="11.091" rx="5.54549" fill="#ffd200"/>
+                <rect class="dialogsNameFg" x="217.436" y="419.811" width="86.1684" height="11.091" rx="5.54549" fill="#ffd200"/>
+                <rect class="dialogsNameFg" x="200.265" y="500.007" width="93.8467" height="11.091" rx="5.54549" fill="#ffd200"/>
+                <rect class="dialogsNameFgActive" x="200.298" y="580.006" width="51.1891" height="11.091" rx="5.54549" fill="#ffd200"/>
+                <rect class="dialogsNameFg" x="200.265" y="740.596" width="86.1684" height="11.091" rx="5.54549" fill="#ffd200"/>
+                <rect class="dialogsNameFg" x="200.265" y="820.793" width="76.7837" height="11.091" rx="5.54549" fill="#ffd200"/>
+                <rect class="dialogsNameFg" x="200.265" y="900.989" width="102.378" height="11.091" rx="5.54549" fill="#ffd200"/>
+                <rect class="dialogsNameFg" x="200.265" y="339.615" width="68.2522" height="11.091" rx="5.54549" fill="#ffd200"/>
+                <rect class="dialogsNameFg" x="200.298" y="660.437" width="75.0092" height="10.8447" rx="5.42235" fill="#ffd200"/>
+                <circle cx="157.86" cy="446.057" r="29.8603" fill="url(#paint7_linear)"/>
+                <circle cx="157.86" cy="365.86" r="29.8603" fill="url(#paint8_linear)"/>
+                <circle cx="157.86" cy="686.646" r="29.8603" fill="url(#paint9_linear)"/>
+                <circle cx="157.86" cy="606.449" r="29.8603" fill="url(#paint10_linear)"/>
+                <circle cx="157.86" cy="526.253" r="29.8603" fill="url(#paint11_linear)"/>
+                <circle cx="157.86" cy="847.038" r="29.8603" fill="url(#paint12_linear)"/>
+                <circle cx="157.86" cy="766.842" r="29.8603" fill="url(#paint13_linear)"/>
+                <circle cx="157.86" cy="927.234" r="29.8603" fill="url(#paint14_linear)"/>
+                <rect class="dialogsDateFg" x="455.465" y="337.706" width="31.5666" height="11.091" rx="5.54549" fill="#ffd200"/>
+                <rect class="dialogsDateFg" x="455.465" y="417.903" width="31.5666" height="11.091" rx="5.54549" fill="#ffd200"/>
+                <rect class="dialogsDateFg" x="455.465" y="498.099" width="31.5666" height="11.091" rx="5.54549" fill="#ffd200"/>
+                <rect class="dialogsDateFgActive" x="455.465" y="578.295" width="31.5666" height="11.091" rx="5.54549" fill="#ffd200"/>
+                <rect class="dialogsDateFg" x="455.465" y="658.491" width="31.5666" height="11.091" rx="5.54549" fill="#ffd200"/>
+                <rect class="dialogsDateFg" x="455.465" y="738.688" width="31.5666" height="11.091" rx="5.54549" fill="#ffd200"/>
+                <rect class="dialogsDateFg" x="455.465" y="899.08" width="31.5666" height="11.091" rx="5.54549" fill="#ffd200"/>
+                <rect class="dialogsDateFg" x="455.465" y="818.884" width="31.5666" height="11.091" rx="5.54549" fill="#ffd200"/>
+                <circle class="dialogsSentIconFg" cx="443.947" cy="343.252" r="5.54549" fill="#ffd200"/>
+                <circle class="dialogsSentIconFg" cx="443.947" cy="664.037" r="5.54549" fill="#ffd200"/>
+                <circle class="dialogsSentIconFg" cx="443.947" cy="744.233" r="5.54549" fill="#ffd200"/>
+                <circle class="dialogsUnreadBgMuted" cx="476.367" cy="535.211" r="10.6644" fill="#ffd200"/>
+                <circle class="dialogsUnreadBgMuted" cx="476.5" cy="378.5" r="9.5" fill="#ffd200"/>
+                <circle class="dialogsUnreadBg" cx="476.367" cy="455.015" r="10.6644" fill="#ffd200"/>
+                <circle class="dialogsBgActive" cx="177" cy="628" r="9" fill="#ffd200"/>
+                <circle class="dialogsOnlineBadgeFgActive" cx="177" cy="628" r="6.71946" fill="#ffd200"/>
+                <circle class="dialogsChatIconFg" cx="205.72" cy="425.469" r="5.42235" fill="#ffd200"/>
+                <rect x="110" y="867" width="400" height="48" fill="url(#paint15_linear)"/>
+                <rect class="filterInputBorderFg" x="128" y="227" width="302" height="40" rx="11.5" fill="#ffd200"/>
+                <rect class="filterInputActiveBg" x="128.5" y="227.5" width="301" height="39" rx="11.5" fill="#ffd200"/>
+                <circle class="dialogsMenuIconFg" cx="468" cy="248" r="18" fill="#ffd200"/>
+                <rect x="128" y="284" width="359" height="35" rx="12" fill="black" fill-opacity="0.02"/>
+                <rect class="dialogsNameFg" x="145" y="294" width="81" height="13" rx="6.5" fill="#ffd200"/>
+                <rect class="dialogsUnreadBgMuted" x="424" y="293" width="43" height="17" rx="8.5" fill="#ffd200"/>
+            </g>
+            <rect class="shadowFg" x="510" y="208" width="2" height="707" fill="#ffd200"/>
+        </g>
+    </g>
+    <defs>
+        <filter id="filter0_f" x="-250" y="-107" width="1588" height="1301" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+            <feFlood flood-opacity="0" result="BackgroundImageFix"/>
+            <feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+            <feGaussianBlur stdDeviation="125" result="effect1_foregroundBlur"/>
+        </filter>
+        <filter id="filter1_f" x="517.275" y="320.275" width="205.524" height="411.565" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+            <feFlood flood-opacity="0" result="BackgroundImageFix"/>
+            <feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+            <feGaussianBlur stdDeviation="2.36235" result="effect1_foregroundBlur"/>
+        </filter>
+        <filter id="filter2_f" x="832.28" y="275.64" width="209.44" height="576.44" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+            <feFlood flood-opacity="0" result="BackgroundImageFix"/>
+            <feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+            <feGaussianBlur stdDeviation="2.36" result="effect1_foregroundBlur"/>
+        </filter>
+        <pattern id="pattern0" patternContentUnits="objectBoundingBox" width="1" height="1">
+            <use xlink:href="#image0" transform="translate(-0.130458) scale(0.000656727 0.000925926)"/>
+        </pattern>
+        <filter id="filter3_d" x="491" y="836" width="577" height="97" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+            <feFlood flood-opacity="0" result="BackgroundImageFix"/>
+            <feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"/>
+            <feOffset dy="-1"/>
+            <feGaussianBlur stdDeviation="10"/>
+            <feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.1 0"/>
+            <feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow"/>
+            <feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow" result="shape"/>
+        </filter>
+        <filter id="filter4_d" x="491" y="229" width="577" height="98" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+            <feFlood flood-opacity="0" result="BackgroundImageFix"/>
+            <feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"/>
+            <feOffset dy="1"/>
+            <feGaussianBlur stdDeviation="10"/>
+            <feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.1 0"/>
+            <feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow"/>
+            <feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow" result="shape"/>
+        </filter>
+        <filter id="filter5_d" x="489" y="187" width="581" height="84" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+            <feFlood flood-opacity="0" result="BackgroundImageFix"/>
+            <feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"/>
+            <feMorphology radius="2" operator="dilate" in="SourceAlpha" result="effect1_dropShadow"/>
+            <feOffset dy="1"/>
+            <feGaussianBlur stdDeviation="10"/>
+            <feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.1 0"/>
+            <feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow"/>
+            <feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow" result="shape"/>
+        </filter>
+        <linearGradient id="paint7_linear" x1="157.823" y1="416.432" x2="157.823" y2="476.077" gradientUnits="userSpaceOnUse">
+            <stop class="historyPeer1UserpicBg" stop-color="#ffd200"/>
+            <stop class="historyPeer1UserpicBgShadow" offset="1" stop-color="#ffd200"/>
+        </linearGradient>
+        <linearGradient id="paint8_linear" x1="157.823" y1="336" x2="157.823" y2="395.646" gradientUnits="userSpaceOnUse">
+            <stop class="historyPeerSavedMessagesBg" stop-color="#ffd200"/>
+            <stop class="historyPeerSavedMessagesBgShadow" offset="1" stop-color="#ffd200"/>
+        </linearGradient>
+        <linearGradient id="paint9_linear" x1="157.823" y1="656.823" x2="157.823" y2="716.468" gradientUnits="userSpaceOnUse">
+            <stop class="historyPeer2UserpicBg" stop-color="#ffd200"/>
+            <stop class="historyPeer2UserpicBgShadow" offset="1" stop-color="#ffd200"/>
+        </linearGradient>
+        <linearGradient id="paint10_linear" x1="157.823" y1="576.391" x2="157.823" y2="636.037" gradientUnits="userSpaceOnUse">
+            <stop class="historyPeer3UserpicBg" stop-color="#ffd200"/>
+            <stop class="historyPeer3UserpicBgShadow" offset="1" stop-color="#ffd200"/>
+        </linearGradient>
+        <linearGradient id="paint11_linear" x1="157.823" y1="495.959" x2="157.823" y2="556.509" gradientUnits="userSpaceOnUse">
+            <stop class="historyPeer4UserpicBg" stop-color="#ffd200"/>
+            <stop class="historyPeer4UserpicBgShadow" offset="1" stop-color="#ffd200"/>
+        </linearGradient>
+        <linearGradient id="paint12_linear" x1="157.86" y1="817.178" x2="157.86" y2="876.898" gradientUnits="userSpaceOnUse">
+            <stop class="historyPeer5UserpicBg" stop-color="#ffd200"/>
+            <stop class="historyPeer5UserpicBgShadow" offset="1" stop-color="#ffd200"/>
+        </linearGradient>
+        <linearGradient id="paint13_linear" x1="157.86" y1="736.981" x2="157.86" y2="796.702" gradientUnits="userSpaceOnUse">
+            <stop class="historyPeer6UserpicBg" stop-color="#ffd200"/>
+            <stop class="historyPeer6UserpicBgShadow" offset="1" stop-color="#ffd200"/>
+        </linearGradient>
+        <linearGradient id="paint14_linear" x1="157.86" y1="736.981" x2="157.86" y2="796.702" gradientUnits="userSpaceOnUse">
+            <stop class="historyPeer7UserpicBg" stop-color="#ffd200"/>
+            <stop class="historyPeer7UserpicBgShadow" offset="1" stop-color="#ffd200"/>
+        </linearGradient>
+        <linearGradient id="paint15_linear" x1="310" y1="867" x2="310" y2="915" gradientUnits="userSpaceOnUse">
+            <stop class="dialogsBg" stop-color="#ffd200" stop-opacity="0"/>
+            <stop class="dialogsBg" offset="0.854167" stop-color="#ffd200"/>
+        </linearGradient>
+        <clipPath id="clip0">
+            <rect width="1088" height="1088" fill="white"/>
+            </clipPath>
+            <clipPath id="clip1">
+            <rect x="40" y="173" width="1008" height="741" rx="30" fill="white"/>
+        </clipPath>
+        <clipPath id="clip2">
+            <rect width="537" height="706" fill="white" transform="translate(511 208)"/>
+        </clipPath>
+        <clipPath id="clip3">
+            <path d="M110 238C110 221.431 123.431 208 140 208H512V915H140C123.431 915 110 901.569 110 885V238Z" fill="white"/>
+        </clipPath>
+        <clipPath id="clip4">
+            <rect width="13" height="13" fill="white" transform="translate(121 1033)"/>
+        </clipPath>
+        <image class="IMG" id="image0" width="1620" height="980" xlink:href=""/>
+    </defs>
+</svg>
