@@ -6,7 +6,7 @@ Send him any .attheme or .tdestop-theme file and bot will return you a preview o
 
 This bot is created for [AW_ThemeBot](http://t.me/AW_ThemeBot) to make preview for [Theme Channel](https://t.me/JoinThemesWorld)
 
-#Credits 
+# Credits 
 
 This repository originally belongs to [@AlexStrNi](https://github.com/AlexStrNik) can be found [here](https://github.com/AlexStrNik/theme-preview)
 
