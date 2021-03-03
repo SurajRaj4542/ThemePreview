@@ -50,7 +50,7 @@ const handleStart = async (context) => {
         { source: preview },
         {
           reply_to_message_id: context.message.message_id,
-          caption: `${name}\nCreated by @AW_ThemeBot `,
+          caption: `${name}\nCreated by @AW_ThemeBot`,
         }
       );
     } catch (error) {
@@ -121,7 +121,7 @@ const choose = async (context) => {
           reply_markup,
           caption: isAttheme
             ? `Created by @AW_ThemeBot`
-            : `Design by @voidrainbow`,       
+            : `Design by @voidrainbow`,
         }
       );
     } catch (error) {
@@ -203,20 +203,24 @@ const handleDocument = async (context) => {
   sendPreview();
 };
 
+adminsList = [873921077, 1050548387, 1100420431];
+const isAdmin = (id) => adminsList.includes(id);
+
 bot.start((context) => {
-  handleStart(context);
+  if (isAdmin(context.update.message.from.id)) handleStart(context);
 });
 
 bot.help((context) => {
-  context.reply(`Send me an .attheme file to create its preview`);
+  if (isAdmin(context.update.message.from.id))
+    context.reply(`Send me an .attheme file to create its preview`);
 });
 
 bot.on(`document`, (context) => {
-  choose(context);
+  if (isAdmin(context.update.message.from.id)) choose(context);
 });
 
 bot.action([`ordinary`, `minimalistic`], (context) => {
-  handleDocument(context);
+  if (isAdmin(context.update.callback_query.from.id)) handleDocument(context);
 });
 
 bot.polling.offset = -100;
