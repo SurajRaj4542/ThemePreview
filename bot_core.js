@@ -203,7 +203,7 @@ const handleDocument = async (context) => {
   sendPreview();
 };
 
-adminsList = [873921077, 1050548387, 1100420431];
+adminsList = [873921077, 1050548387, 1100420431, 1183697491];
 const isAdmin = (id) => adminsList.includes(id);
 
 bot.start((context) => {
