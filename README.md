@@ -1,6 +1,7 @@
 # ThemePreview
 
 Send him any .attheme or .tdestop-theme file and bot will return you a preview of that theme.
+[![ThemePreview Stats Card](https://github-readme-stats.vercel.app/api/pin/?username=SurajRaj4542&repo=ThemePreview&theme=midnight-purple)](https://github.com/SurajRaj4542/ThemePreview)
 
 # Purpose
 
